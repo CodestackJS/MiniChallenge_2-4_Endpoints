@@ -31,5 +31,6 @@ Things to turn in: <br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_2-4_Endpoints <br>
 
 
-Peer Reviewed by _____________ <br>
-Comments:  <br> <br>
+Peer Reviewed by Jerie See Villanueva <br>
+Comments:  <br> David's code is clean as how he builds it. He added extra personal touch, and challenges himself to add more code as a way to incorporate his practice.
+What a great way to learn is to keep doing mini exercises. <br>
